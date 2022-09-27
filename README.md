@@ -1,0 +1,2 @@
+# LinkedScamDatabase
+Linked Scam Database
